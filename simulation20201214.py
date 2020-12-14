@@ -3,6 +3,7 @@
 Created on Mon Dec 14 16:01:47 2020
 仿真程序，在理论的基础上加以改进
 @author: 65404
+测试一下如何git自己上传
 """
 
 import pandas as pd
